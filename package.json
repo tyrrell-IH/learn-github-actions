@@ -1,0 +1,23 @@
+{
+  "name": "learn-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyrrell-IH/learn-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyrrell-IH/learn-github-actions/issues"
+  },
+  "homepage": "https://github.com/tyrrell-IH/learn-github-actions#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
